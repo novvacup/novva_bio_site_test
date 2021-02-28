@@ -20,16 +20,20 @@ description: "Novva Biosolutions is designing the mesntrual cup of the future: N
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon_novva.ico"
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key:  ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
 colors:
+  purple:    '#92278F'
+  pink:      '#E0CBEE'
+  green:     '#288A6B'
+  gray:      '#808080'
   black:     '#111111'
   white:     '#f8f8f8'
   blue:      '#49a7e9'
   green:     '#9bcf2f'
-  purple:    '#c869bf'
+  purple2:   '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
 
