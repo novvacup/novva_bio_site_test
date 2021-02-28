@@ -29,10 +29,11 @@ colors:
   pink:      '#E0CBEE'
   green:     '#288A6B'
   gray:      '#808080'
+  
   black:     '#111111'
   white:     '#f8f8f8'
   blue:      '#49a7e9'
-  green:     '#9bcf2f'
+  green2:    '#9bcf2f'
   purple2:   '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
